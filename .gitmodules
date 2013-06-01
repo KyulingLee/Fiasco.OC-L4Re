@@ -1,0 +1,6 @@
+[submodule "Fiasco.OC"]
+	path = Fiasco.OC
+	url = git://github.com/bog-dan-ro/Fiasco.OC.git
+[submodule "L4Re"]
+	path = L4Re
+	url = git://github.com/bog-dan-ro/L4Re.git
